@@ -10,7 +10,7 @@ I am passionate about technology, programming and science, I like to learn every
 
 <div style="display: inline_block"></br>
 <h3><b>Skills<b></h3>
-    <img aling =  "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img aling =  "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"/>
     <img aling =  "center" alt = "css3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img aling =  "center" alt = "javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
      <img aling =  "center" alt = "bootstrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -60,6 +60,8 @@ I am passionate about technology, programming and science, I like to learn every
 
 <h3><b>Streaming<b></h3>
 
-[![streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCm8-X9JK8dR3QwCnQLEAAbw)[![streaming](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)](https://www.facebook.com/AMCDanyMX)[![streaming](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/amcdanymx)
+[![streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCm8-X9JK8dR3QwCnQLEAAbw)[![streaming](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white )](https://www.facebook.com/AMCDanyMX)[![streaming](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](target="_blank"https://www.twitch.tv/amcdanymx)
+
+
 
 
