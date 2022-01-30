@@ -1,7 +1,7 @@
 ¡Hello There!
 
 <div>
-<h3>My name is <b>Daniel Alejandro Morales Castillo from Mexico</b> Im student of software engineering at <a href="https://ingsoftware.reduaz.mx" rel="follow">UAZ</a> 
+<h3>My name is <b>Daniel Alejandro Morales Castillo from Mexico</b> Im student of software engineering at <a href="https://ingsoftware.reduaz.mx" target="_blank" rel="follow">UAZ</a> 
 
 I am passionate about technology, programming and science, I like to learn every day and I dream of being able to change the world.</h3>
 </div>
@@ -68,6 +68,7 @@ I am passionate about technology, programming and science, I like to learn every
 <h3><b>Streaming<b></h3>
 
 [![streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCm8-X9JK8dR3QwCnQLEAAbw)[![streaming](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white )](https://www.facebook.com/AMCDanyMX)[![streaming](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/amcdanymx)
+
 
 
 
