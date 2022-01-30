@@ -35,6 +35,7 @@ I am passionate about technology, programming and science, I like to learn every
  <a target="_blank" href="https://www.jetbrains.com/es-es/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
  <a target="_blank" href="https://numpy.org/learn/"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
  <a target="_blank" href="https://es.overleaf.com"><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
+ 
  <a target="_blank" href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a target="_blank" href="https://about.gitlab.com"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a target="_blank" href="https://git-scm.com"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -63,7 +64,5 @@ I am passionate about technology, programming and science, I like to learn every
 <h3><b>Streaming<b></h3>
 
 [![streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCm8-X9JK8dR3QwCnQLEAAbw)[![streaming](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white )](https://www.facebook.com/AMCDanyMX)[![streaming](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/amcdanymx)
-
-
 
 
