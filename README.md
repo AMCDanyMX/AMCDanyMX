@@ -30,7 +30,6 @@ I am passionate about technology, programming and science, I like to learn every
  <a target="_blank" href="https://visualstudio.microsoft.com/es/vs/community/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
  <a target="_blank" href="https://docs.microsoft.com/en-us/dotnet/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
   <a target="_blank" href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
-
  <a target="_blank" href="https://netbeans.apache.org/download/index.html"><img src="https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"></a>
  <a target="_blank" href="https://www.jetbrains.com/es-es/idea/"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
  <a target="_blank" href="https://www.jetbrains.com/es-es/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
@@ -64,5 +63,7 @@ I am passionate about technology, programming and science, I like to learn every
 <h3><b>Streaming<b></h3>
 
 [![streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCm8-X9JK8dR3QwCnQLEAAbw)[![streaming](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white )](https://www.facebook.com/AMCDanyMX)[![streaming](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/amcdanymx)
+
+
 
 
