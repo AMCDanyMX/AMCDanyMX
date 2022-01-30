@@ -10,6 +10,7 @@ I am passionate about technology, programming and science, I like to learn every
 
 <div style="display: inline_block"></br>
 <h3><b>Skills<b></h3>
+<a target="_blank" href="https://developer.mozilla.org/es/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"></a>
     <img aling =  "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"/>
     <img aling =  "center" alt = "css3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img aling =  "center" alt = "javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -43,7 +44,6 @@ I am passionate about technology, programming and science, I like to learn every
 
 </div>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amcdanymx&layout=compact)](https://github.com/AMCDanyMX)
 
 ![AMCDanyMX GitHub stats](https://github-readme-stats.vercel.app/api?username=AMCDanyMX&show_icons=true&theme=dark)
@@ -61,7 +61,4 @@ I am passionate about technology, programming and science, I like to learn every
 <h3><b>Streaming<b></h3>
 
 [![streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCm8-X9JK8dR3QwCnQLEAAbw)[![streaming](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white )](https://www.facebook.com/AMCDanyMX)[![streaming](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](target="_blank"https://www.twitch.tv/amcdanymx)
-
-
-
 
